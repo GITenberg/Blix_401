@@ -1,5 +1,8 @@
 _repo: Blix_401
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Norris, Frank
@@ -13,6 +16,8 @@ description: This short 1899 romance was based on Norris's courtship of his wife
   It features a San Francisco journalist, Condy Rivers, who falls in love with the
   daughter of a wealthy family that believes him to be very much beneath her. Willa
   Cather praised the novel as all wheat and no chaff.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/401#Blix
 gutenberg_issued: '1996-01-01'
 gutenberg_type: Text
 identifiers:
